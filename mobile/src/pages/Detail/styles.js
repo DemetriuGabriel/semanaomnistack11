@@ -71,7 +71,7 @@ export default StyleSheet.create({
     },
 
     actionText: {
-        color: '#FFF',
+        color: '#FFFF',
         fontSize: 15,
         fontWeight: 'bold'
     }
