@@ -1,4 +1,4 @@
-# Scmana Omnistack 11 - Rocketseat
+# Semana Omnistack 11 - Rocketseat
 
 ## Projeto
 ### Be The Hero 
