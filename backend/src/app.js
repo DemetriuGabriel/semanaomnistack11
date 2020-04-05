@@ -8,7 +8,7 @@
  */
 
  /*
- *  Tipos de paraâmetros:
+ *  Tipos de parâmetros:
  *
  * Query Params:  Parâmetros nomeados enviados na rota após o "?" (filtros, paginação)
  *  Route Params: Parâmetros utilizados para identificar recursos
