@@ -14,7 +14,7 @@
 
 ### :trophy: Tecnologias & Frameworks usadas
 
--  **Linguagens:** Javasricpt, CSS, HTML.
+-  **Linguagens:** Javasricpt, CSS.
 
 * **Web:** [ReactJS](https://pt-br.reactjs.org/)
 * **Mobile:** [ReactNative](https://reactnative.dev/)( [Expo](https://expo.io) )
@@ -29,4 +29,4 @@ VScode, Insomnia, GIT SCM, Chocolatey.
 A semana foi ministrada pelo **Mestre** [Diego Fernandes](https://github.com/diego3g)
 
 ## Projeto by Rocketseat :heart: :
-Esse projeto é apenas para fim estudantil,
+Esse projeto é apenas para fins estudantil.
